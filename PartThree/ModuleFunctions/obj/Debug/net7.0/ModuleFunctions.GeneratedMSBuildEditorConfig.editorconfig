@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ModuleFunctions
+build_property.ProjectDir = C:\Users\Ali Khazem\OneDrive\University\Year 2\Semester 2\Programming\POE\POE PART FINAL\prog6212-poe-st10032904\PartThree\ModuleFunctions\
